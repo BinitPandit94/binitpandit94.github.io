@@ -1,7 +1,7 @@
 title: Binit Kumar Pandit
 logo: /assets/img/mypic.jpeg
 description: This is my personal webpage
-minimal_mistakes_skin: "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: sunrise # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
