@@ -23,5 +23,4 @@ i.	Keeping the phone away (Have away as you have to make an effort to grab it) \
 ii.	Barriers to social media (Separation), E.g ., Distract free youtube, Facebook., block sites, Facebook (Newsfeed eradication). Introduce barrier or friction \
 iii.	25 minutes study & 5 minutes break to get back to 25 minutes  study
 
-
-
+[back](./)
