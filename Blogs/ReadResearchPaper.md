@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 ---
 # How to Read Research Papers !!
 
