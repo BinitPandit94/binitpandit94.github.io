@@ -4,6 +4,7 @@ description: This is my personal webpage
 minimal_mistakes_skin: sunrise # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 show_downloads: false
 google_analytics:
+repository: BinitPandit94/binitpandit94.github.io
 theme: jekyll-theme-minimal
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
